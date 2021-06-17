@@ -6,7 +6,24 @@ h1{color:grey;font-family:verdana}
     width: 300px;
     padding:20px;
     border-radius:25px;
-    margin:auto;
+    margin:auto
+}
+
+#principal{
+    position: relative;
+    left:20%;
+}
+#rate{
+    position: relative;
+    left:25%;
+}
+#rate_val{
+    position: relative;
+    left:28%;
+}
+#years{
+    position: relative;
+    left:10%;
 }
 
 
